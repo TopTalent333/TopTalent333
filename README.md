@@ -1,8 +1,8 @@
-### Hi there, I'm Sasha from Ukraine 👋
+### Hi there. 👋
 
 ## Senior Mobile & Web Developer.
 
-- 🔭 I'm a full time developer. [Portfolio website][website]
+- 🔭 I'm a full time developer.
 - 🌱 I'm a Software Engineer, specialized in Javascript,java,swift.
 
 ### Connect with me:
@@ -37,6 +37,5 @@
 
 <img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TopTalent333&show_icons=true&hide_border=true" />
 
-[website]: https://sasha-37046.web.app/
 [facebook]: https://www.facebook.com/
-[instagram]: https://www.instagram.com/alexandr.st98
+[instagram]: https://www.instagram.com/
