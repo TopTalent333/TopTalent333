@@ -10,6 +10,7 @@
 [<img align="left" alt="social-media-profile | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="social-media-profile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.2347562141623615]
+[<img align="left" alt="social-media-profile | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> +380636763691]
 <br />
 
 ### Languages and Tools:
