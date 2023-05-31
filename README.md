@@ -1,9 +1,9 @@
 ### Hi there. 👋
 
-## Senior Mobile & Web Developer.
+## Mid-Senior Mobile & Web Developer.
 
 - 🔭 I'm a full time developer.
-- 🌱 I'm a Software Engineer, specialized in Javascript,java,swift.
+- 🌱 I'm a Software Engineer, specialized in Javascript,Python, PHP.
 
 ### Connect with me:
 
