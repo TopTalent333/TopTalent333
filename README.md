@@ -5,12 +5,6 @@
 - 🔭 I'm a full time developer.
 - 🌱 I'm a Software Engineer, specialized in Javascript,Python, PHP.
 
-### Connect with me:
-
-[<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.2347562141623615]
-[<img align="left" alt="social-media-profile | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> +380506126851]
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
